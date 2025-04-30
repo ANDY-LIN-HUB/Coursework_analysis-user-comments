@@ -1,2 +1,2 @@
-# -oursework_analysis-user-comments
+# Coursework analysis of user comments
 Курсовая работа на тему "Подходы к извлечению закономерностей из комментариев на маркетплейсах"
